@@ -1,0 +1,16 @@
+name: DarkShops
+version: 0.1.7.1
+author: Celeo
+description: Sign shop
+website: http://darktidegames.com/ 
+main: com.darktidegames.darkshops.DarkShops
+depend: [bPermissions, WorldEdit, WorldGuard, Empyrean]
+commands:
+  ys:
+    usage: /<command> [parameter(s)]
+  shop:
+    usage: /<command> [parameter(s)]
+  shops:
+    usage: /<command> [parameter(s)]
+  darkshops:
+    usage: /<command> [parameter(s)]

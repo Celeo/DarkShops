@@ -1,0 +1,7 @@
+settings:
+  nextShopID: 0
+  defaultShopLimit: 3
+  maxRangeBetween: 15.0
+shops: []
+limits: []
+kits: []
